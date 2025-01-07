@@ -1,6 +1,6 @@
 # Blackjack Calculator: Your Strategic Partner at the Table
 
-Ever feel like blackjack is a game of pure chance? What if I told you that strategy can help swing the odds in your favor?
+Ever feel like blackjack is a game of pure chance? What if I told you that strategy can help swing the odds in your favor? Check out on [Asam Teer](https://asamteer.com/calculators)
 
 ## Why Use a Blackjack Calculator?
 
