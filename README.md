@@ -4,7 +4,7 @@ Ever feel like blackjack is a game of pure chance? What if I told you that strat
 
 ## Why Use a Blackjack Calculator?
 
-The **Blackjack Calculator** is an innovative tool designed to improve your gameplay by combining probability and proven strategies. It recommends each move you should make, helping you avoid costly mistakes and make more informed decisions.
+The **Blackjack Calculator** is an innovative tool designed to improve your gameplay by combining probability and proven strategies. It recommends each move you should make, helping you avoid costly mistakes and make more informed decisions. Do check [Common Mistakes to Avoid When Using a Roulette Payouts Calculator](https://asamteer.com/calculators/common-mistakes-to-avoid-when-using-a-roulette-payouts-calculator/)
 
 ### Key Benefits
 
